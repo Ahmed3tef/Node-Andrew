@@ -1,0 +1,8 @@
+to import something from a file we use require('') function.
+  - const fs = require('fs'); // require(./somepath)
+
+to export something from a file
+  - module.exports = name;
+
+to install a global package 
+  - npm i nodemon@1.18.5 -g     // this package is used to run live nodejs files.
